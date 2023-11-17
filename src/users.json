@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123",
+      "fullName": "шахзод лох",
+      "avatar": "https://mirror-venus.ru/wp-content/uploads/2018/12/tumblr_ol4qcnIM1r1uonfnzo1_1280.jpg"
+    }
+  ]
+}
